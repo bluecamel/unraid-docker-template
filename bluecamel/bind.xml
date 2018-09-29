@@ -41,7 +41,7 @@
         <Protocol>udp</Protocol>
       </Port>
       <Port>
-        <HostPort>10000</HostPort>
+        <HostPort>8081</HostPort>
         <ContainerPort>10000</ContainerPort>
         <Protocol>tcp</Protocol>
       </Port>

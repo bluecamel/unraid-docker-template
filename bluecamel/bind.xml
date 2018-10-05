@@ -54,7 +54,7 @@
       <Mode>rw</Mode>
     </Volume>
   </Data>
-<WebUI>http://[IP]:[PORT:32400]/web</WebUI>
+<WebUI>http://[IP]:[PORT:8081]/web</WebUI>
   <Icon></Icon>
   <ExtraParams></ExtraParams>
 <DonateText></DonateText>

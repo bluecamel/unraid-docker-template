@@ -8,8 +8,8 @@
   <Description>
   Dockerize BIND DNS server with webmin for DNS administration
   </Description>
-  <Project>https://github.com/sameersbn/docker-bind</Project>
-  <Registry>https://quay.io/repository</Registry>
+  <Project>https://github.com/bluecamel/docker-bind</Project>
+  <Registry>https://docker.io/bluecamel/docker-bind</Registry>
   <Repository>sameersbn/bind</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
